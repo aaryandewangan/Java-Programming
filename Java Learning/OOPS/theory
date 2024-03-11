@@ -1,0 +1,11 @@
+Class - blueprint or templete for an object. It is a basic entity of an object oriented system.
+is a way of bindin the data and associated methods in a single unit.
+
+object - instance of class, is a run time entity of an object oriented system.
+
+Access Modifiers - public private protected default.
+
+Variable - is a name given to Storage area.
+
+Constructor - used to initalise object's state
+              purpose - is used to initialize member variable of invoking object.

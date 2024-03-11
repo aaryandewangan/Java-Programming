@@ -1,0 +1,602 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BankAbstract",
+            "request": "launch",
+            "mainClass": "Abstract.BankAbstract",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AnonymArray",
+            "request": "launch",
+            "mainClass": "Arrays.AnonymArray",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Arraycompare",
+            "request": "launch",
+            "mainClass": "Arrays.Arraycompare",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "CopyArray",
+            "request": "launch",
+            "mainClass": "Arrays.CopyArray",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateArray",
+            "request": "launch",
+            "mainClass": "Arrays.DuplicateArray",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "LargeSmallSum",
+            "request": "launch",
+            "mainClass": "Arrays.LargeSmallSum",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Sum2DArray",
+            "request": "launch",
+            "mainClass": "Arrays.Sum2DArray",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "arrayswapping",
+            "request": "launch",
+            "mainClass": "Arrays.arrayswapping",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "basicarray",
+            "request": "launch",
+            "mainClass": "Arrays.basicarray",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "directarrayprint",
+            "request": "launch",
+            "mainClass": "Arrays.directarrayprint",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "main0",
+            "request": "launch",
+            "mainClass": "Arrays.main0",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "reversearray",
+            "request": "launch",
+            "mainClass": "Arrays.reversearray",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "BigNumber",
+            "request": "launch",
+            "mainClass": "BigNumber",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "CharCheck",
+            "request": "launch",
+            "mainClass": "CharCheck",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "CostPrice",
+            "request": "launch",
+            "mainClass": "CostPrice",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Exception_Handling.Addition",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "GenderMarks",
+            "request": "launch",
+            "mainClass": "GenderMarks",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Hierarichal",
+            "request": "launch",
+            "mainClass": "Hierarichal",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Looping.Armstrong",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom",
+            "request": "launch",
+            "mainClass": "Looping.Palindrom",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "Looping.count",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Looping.factorial",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Looping.fibonacci",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "floatandloop",
+            "request": "launch",
+            "mainClass": "Looping.floatandloop",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "multiplicationofno",
+            "request": "launch",
+            "mainClass": "Looping.multiplicationofno",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "reverintwodiff",
+            "request": "launch",
+            "mainClass": "Looping.reverintwodiff",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "reverseno",
+            "request": "launch",
+            "mainClass": "Looping.reverseno",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "summation",
+            "request": "launch",
+            "mainClass": "Looping.summation",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "sumofeachno",
+            "request": "launch",
+            "mainClass": "Looping.sumofeachno",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "sumseries",
+            "request": "launch",
+            "mainClass": "Looping.sumseries",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "sumseriesfactorial",
+            "request": "launch",
+            "mainClass": "Looping.sumseriesfactorial",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "Looping.table",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "Marks",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "MarksGrade",
+            "request": "launch",
+            "mainClass": "MarksGrade",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "MaxNumber",
+            "request": "launch",
+            "mainClass": "MaxNumber",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "MinNumber",
+            "request": "launch",
+            "mainClass": "MinNumber",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticEight",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticEight",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticFive",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticFive",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticFour",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticFour",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticNine",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticNine",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticSeven",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticSeven",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticSix",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticSix",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticThree",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticThree",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StaticTwo",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.StaticTwo",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Statics",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.Statics",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "ThisTwo",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.ThisKeyword.ThisTwo",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Thisone",
+            "request": "launch",
+            "mainClass": "OOPS.OOPS_static.ThisKeyword.Thisone",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "OOPS.Rectangle",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "OOPS.Student",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "OOPS.Triangle",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "OverRiding",
+            "request": "launch",
+            "mainClass": "OverRiding",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "DiffTwoArrTest",
+            "request": "launch",
+            "mainClass": "Practice.DiffTwoArrTest",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Leader",
+            "request": "launch",
+            "mainClass": "Practice.Leader",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "NextLargeinArray",
+            "request": "launch",
+            "mainClass": "Practice.NextLargeinArray",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfOneBits",
+            "request": "launch",
+            "mainClass": "Practice.NumberOfOneBits",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Pow",
+            "request": "launch",
+            "mainClass": "Practice.Pow",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "ProductSmallPair",
+            "request": "launch",
+            "mainClass": "Practice.ProductSmallPair",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "QuestionOne",
+            "request": "launch",
+            "mainClass": "Practice.QuestionOne",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StringPalindrom",
+            "request": "launch",
+            "mainClass": "Practice.StringPalindrom",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "convertStringStoT",
+            "request": "launch",
+            "mainClass": "Practice.convertStringStoT",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "BankAccountMain",
+            "request": "launch",
+            "mainClass": "PracticeTwo.BankAccountMain",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "EndWith",
+            "request": "launch",
+            "mainClass": "Strings.EndWith",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "IndexOfFunction",
+            "request": "launch",
+            "mainClass": "Strings.IndexOfFunction",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "LastIndexOf",
+            "request": "launch",
+            "mainClass": "Strings.LastIndexOf",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StartWith",
+            "request": "launch",
+            "mainClass": "Strings.StartWith",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StringBuffers",
+            "request": "launch",
+            "mainClass": "Strings.StringBuffers",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo",
+            "request": "launch",
+            "mainClass": "Strings.StringDemo",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StringEquals",
+            "request": "launch",
+            "mainClass": "Strings.StringEquals",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StringHandler",
+            "request": "launch",
+            "mainClass": "Strings.StringHandler",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StringLength",
+            "request": "launch",
+            "mainClass": "Strings.StringLength",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "StringReverse",
+            "request": "launch",
+            "mainClass": "Strings.StringReverse",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "SumOfFirstandLast",
+            "request": "launch",
+            "mainClass": "SumOfFirstandLast",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "SwitchNotes",
+            "request": "launch",
+            "mainClass": "SwitchNotes",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "SwitchVowel",
+            "request": "launch",
+            "mainClass": "SwitchVowel",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Useme",
+            "request": "launch",
+            "mainClass": "Useme",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "UserDefine",
+            "request": "launch",
+            "mainClass": "UserDefine",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "VotingEligibiility",
+            "request": "launch",
+            "mainClass": "VotingEligibiility",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Vowels",
+            "request": "launch",
+            "mainClass": "Vowels",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "Weekends",
+            "request": "launch",
+            "mainClass": "Weekends",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "expliciteexample",
+            "request": "launch",
+            "mainClass": "expliciteexample",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "rectangle",
+            "request": "launch",
+            "mainClass": "rectangle",
+            "projectName": "College Java Learning_23e8a84b"
+        },
+        {
+            "type": "java",
+            "name": "unicode",
+            "request": "launch",
+            "mainClass": "unicode",
+            "projectName": "College Java Learning_23e8a84b"
+        }
+    ]
+}

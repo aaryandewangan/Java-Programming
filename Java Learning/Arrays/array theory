@@ -1,0 +1,10 @@
+Array - array is a Finite, ordered and collection of Homogeneous Data Items.
+      - array is used for a variable to store more than one data.
+
+      finite - fix size of data.
+      ordered - stored in contigeous memory allocations.
+      homogeneous - same type of data, float array consists of only float, int array consists of only int values.
+
+      arr. length - for(i=0; i<arr.length; i++)
+
+      Creation of array -  int arr[] = new int[10];

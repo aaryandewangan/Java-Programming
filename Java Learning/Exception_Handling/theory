@@ -1,0 +1,4 @@
+There are 2 types of errors - Compile time errors and Run time errors.
+Run time errors are known as Exceptions. 
+Run time error is an Abnormal Termination. 
+Catching and stopping this Abnormal Termination of the program is called Exception Handling.
